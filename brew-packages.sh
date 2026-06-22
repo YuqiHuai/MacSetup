@@ -4,7 +4,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
 NC='\033[0m'
 
-formulae=(neovim nvm zellij)
+formulae=(neovim nvm zellij 1password-cli)
 casks=(hyper font-hack-nerd-font)
 
 for package in "${formulae[@]}"; do
